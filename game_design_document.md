@@ -1,13 +1,12 @@
 # Game Design Document
-Name : "" 
-Created by RedOwl/Viath
-23/09/2016 - V0.0.1
+Created by RedOwl/Viath on 23/09/2016 - V0.0.1
 
 ## Overview 
 [This section is dedicated to summarize the game and to answer important initial questions: what
 are the game objectives? What makes it unique? Who is the targeted audience? What is the platform
 for the game? What genre will the game pertain? What is the overall gameplay? These are samples
 of what an overview section need to have.
+
 The goal of this section is to have a quick way to look for the main highlights of the game. A new
 member on a game development team can read this section to catch up the idea of the game, or in
 an advanced game design stage a designer can use it to verify if the ideas he has are in harmony
