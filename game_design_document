@@ -1,16 +1,7 @@
 # Game Design Document
-Created by RedOwl/Viath on 23/09/2016 - V0.0.1
+*Created by RedOwl/Viath on 23/09/2016 - V0.0.1*
 
 ## Overview 
-[This section is dedicated to summarize the game and to answer important initial questions: what
-are the game objectives? What makes it unique? Who is the targeted audience? What is the platform
-for the game? What genre will the game pertain? What is the overall gameplay? These are samples
-of what an overview section need to have.
-
-The goal of this section is to have a quick way to look for the main highlights of the game. A new
-member on a game development team can read this section to catch up the idea of the game, or in
-an advanced game design stage a designer can use it to verify if the ideas he has are in harmony
-with the general idea of the game. The high concept document can evolve to become this section].
 
 ### 1.1 Game abstract
 [Summarize the game in a few words].
@@ -27,26 +18,21 @@ goals?].
 [Describe the main activity the player will be doing in the game. Focus on writing why will it be
 fun?].
 
-### 1.5 Game features
-[This section describes the principal characteristics the game will have].
+### 1.5 Game features 
 
 #### 1.5.1 Genre
-[Describe the game genre by defining elements or a common basic rule set that describes the nature
-of the game].
+Adventure, roguelike, 2D platformer
 
 #### 1.5.2 Number of players
-[Establish the number of players the game has. If the game has multiplayer describe the number of
-players intended to handle and indicate if the multiplayer game is competitive, cooperative or
-colaborative. Describe any special mode the game has for multiplayer].
+Solo adventure, multiplayer could be implemented later for cooperation.
 
 #### 1.5.3 Target platforms
-[Describe in which platforms the game should run. This section is just to give an idea of the
-capabilities and limitations the game may have. Platform limitations should be detailed and
-described on the technical constraints section].
+Mainly windows computer.
+
+@TODO : Check for linux requirements
 
 #### 1.5.4 Game theme
-[Describe the guidelines to the aesthetics of the game. Some examples of game themes can be: post
-nuclear earth, Greek mythology or medieval].
+Piracy in a Carribean-like universe, pirate mythology
 
 #### 1.5.5 History summary
 [Write a brief summary of the history of the game].
@@ -54,14 +40,8 @@ nuclear earth, Greek mythology or medieval].
 ### 1.6 Player characteristics
 [Describe the profile of the desired player]
 
-### 1.7 Initial scope
-[Describe the intended time, money or other resource to be spent in the game and how long the
-game would be].
 
 ## 2 Mechanics
-[ This section describes the game elements, its attributes, and its interaction rules. All elements that
-create the game must be detailed and described in this section. A game character, its visual aspect,
-its sound effects, its personality may be described in this section].
 
 ### 2.1 Game elements categories
 [Create game elements categories. This may help to organize better the design and to establish a
